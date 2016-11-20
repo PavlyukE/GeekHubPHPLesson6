@@ -1,0 +1,7 @@
+<?php
+
+namespace AppBundle\Entities;
+
+class Post
+{
+}
