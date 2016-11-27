@@ -1,4 +1,9 @@
-lesson6
-=======
 
-A Symfony project created on November 19, 2016, 12:34 pm.
+
+Links:
+
+GET - '/'
+POST - '/post/details/1'
+DELETE - '/post/delete/1'
+PATCH - '/post/edit/1'
+PUT - '/post/change/1'
